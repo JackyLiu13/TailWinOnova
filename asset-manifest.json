@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TailWinOnova/static/css/main.7a4a79c2.css",
+    "main.js": "/TailWinOnova/static/js/main.38b1f6d0.js",
+    "static/js/787.d2fecf0a.chunk.js": "/TailWinOnova/static/js/787.d2fecf0a.chunk.js",
+    "static/media/logo.svg": "/TailWinOnova/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TailWinOnova/index.html",
+    "main.7a4a79c2.css.map": "/TailWinOnova/static/css/main.7a4a79c2.css.map",
+    "main.38b1f6d0.js.map": "/TailWinOnova/static/js/main.38b1f6d0.js.map",
+    "787.d2fecf0a.chunk.js.map": "/TailWinOnova/static/js/787.d2fecf0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4a79c2.css",
+    "static/js/main.38b1f6d0.js"
+  ]
+}
